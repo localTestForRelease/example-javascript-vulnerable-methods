@@ -55,3 +55,4 @@ srcclr scan --url https://github.com/srcclr/example-javascript-vulnerable-method
 ```
 
 somechange
+somechange pull
